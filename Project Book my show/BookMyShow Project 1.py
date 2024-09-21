@@ -1,6 +1,6 @@
 x = 10
-Booked_seat = 0
-prize_of_ticket = 0
+Booked_seat = 8
+prize_of_ticket = 4500
 Total_Income = 0
 Row = int(input('Enter number of Row - \n'))
 Seats = int(input('Enter number of seats in a Row - \n'))
